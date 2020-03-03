@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Swipe Quiz</string>
+    <string name="quiz_instructions"><b>Quiz Instructions</b>\nSwipe left for white grape, swipe right for red grape </string>
+    <string name="correct">white</string>
+    <string name="incorrect">red</string>
+    <string name="correct_snackbar">Correct, the answer was: </string>
+    <string name="incorrect_snackbar">Incorrect, the answer was: </string>
+</resources>
